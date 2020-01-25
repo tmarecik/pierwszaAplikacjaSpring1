@@ -2,6 +2,7 @@ package spring.pierwszaAplikacjaSpring.configurationProgrmisci;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Profile;
 import spring.pierwszaAplikacjaSpring.programisci.CaffeMashin;
 import spring.pierwszaAplikacjaSpring.programisci.Komputer;
 import spring.pierwszaAplikacjaSpring.programisci.Programista;

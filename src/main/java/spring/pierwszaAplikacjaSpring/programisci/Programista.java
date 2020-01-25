@@ -1,6 +1,8 @@
 package spring.pierwszaAplikacjaSpring.programisci;
 
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
+
 
 public class Programista {
 
